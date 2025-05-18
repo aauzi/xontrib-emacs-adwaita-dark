@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "xontrib-dracula"
+name = "xontrib-emacs-adwaita-dark"
 version = "0.1.1"
-description = "A Dracula theme for xonsh."
-authors = ["Angus Hollands <goosey15@gmail.com>"]
+description = "An Emacs Adwaita-Dark theme for xonsh."
+authors = ["André Auzi <aauzi@free.fr>", "Angus Hollands <goosey15@gmail.com>"]
 license = "MIT"
 packages = [
   { include = "xontrib" }
