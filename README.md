@@ -6,7 +6,7 @@
 
 Emacs adwaita-dark theme for [xonsh](https://xon.sh).
 
-Based on [xontrib-dracula](https://github.com/agoose77/xontrib-dracula) >
+Based on [xontrib-dracula](https://github.com/agoose77/xontrib-dracula) 
 by Angus Hollands.
 
 And derived from [emacsmirror / adwaita-dark-theme](https://github.com/emacsmirror/adwaita-dark-theme)
