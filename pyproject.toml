@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "xontrib-emacs-adwaita-dark"
-version = "0.1.1"
+version = "0.0.1"
 description = "An Emacs Adwaita-Dark theme for xonsh."
 authors = ["André Auzi <aauzi@free.fr>", "Angus Hollands <goosey15@gmail.com>"]
 license = "MIT"
