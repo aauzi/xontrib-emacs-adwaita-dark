@@ -11,6 +11,11 @@ by Angus Hollands.
 
 And derived from [emacsmirror / adwaita-dark-theme](https://github.com/emacsmirror/adwaita-dark-theme)
 
+Sreenshot
+---------
+
+![emacs-adwaita-dark](screnshot.png "Emacs adwaita-dark preview")
+
 Usage
 -----
 
