@@ -14,7 +14,7 @@ And derived from [emacsmirror / adwaita-dark-theme](https://github.com/emacsmirr
 Sreenshot
 ---------
 
-![emacs-adwaita-dark](screnshot.png "Emacs adwaita-dark preview")
+![emacs-adwaita-dark](screenshot.png "Emacs adwaita-dark preview")
 
 Usage
 -----
