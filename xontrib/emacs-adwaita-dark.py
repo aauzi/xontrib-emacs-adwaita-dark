@@ -16,7 +16,7 @@
 _c = {
     'background':     "#000000",
     'base-5':         "#656565",
-    'black':          "#383838",
+    'black':          "#383838", # gray19
     'blue':           "#64a6f4",
     'cyan':           "#7ee5ff",
     'default':        "#00ff00",
@@ -30,7 +30,7 @@ _c = {
     'white':          "#fefefe",
     'yellow':         "#f8e45c",
     
-    'intense-black':  "#1c1c1c",
+    'intense-black':  "#666666",  # gray40
     'intense-blue':   "#3253ff",
     'intense-cyan':   "#3fffff",
     'intense-green':  "#00bb00",
