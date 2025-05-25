@@ -15,6 +15,7 @@
 # inspired by https://github.com/emacsmirror/adwaita-dark-theme
 _c = {
     'background':     "#000000",
+    'bg':             "#1c1c1c", # gray11
     'base-5':         "#656565",
     'black':          "#383838", # gray19
     'blue':           "#64a6f4",
@@ -72,7 +73,7 @@ _s = {
 
 # gtk-like color hilightings
 _p = {
-    'black': f"bg:{_c['ptk-blue']} {_c['intense-black']}",
+    'black': f"bg:{_c['ptk-blue']} {_c['bg']}",
     'white':f"bg:{_c['ptk-blue']} {_c['intense-white']}",
 }
 
