@@ -40,6 +40,24 @@ _c = {
     'intense-red':    "#ff3636",
     'intense-white':  "#ffffff",
     'intense-yellow': "#fff053",
+    
+    # ansi palette
+    'ansi-black':           "#464646",
+    'ansi-red':             "#ed333b",
+    'ansi-green':           "#57e389",
+    'ansi-yellow':          "#ff7800",
+    'ansi-blue':            "#62a0ea",
+    'ansi-magenta':         "#9141ac",
+    'ansi-cyan':            "#5bc8af",
+    'ansi-white':           "#deddda",
+    'ansi-intense-black':   "#9a9996",
+    'ansi-intense-red':     "#f66151",
+    'ansi-intense-green':   "#8ff0a4",
+    'ansi-intense-yellow':  "#ffa348",
+    'ansi-intense-blue':    "#99c1f1",
+    'ansi-intense-magenta': "#dc8add",
+    'ansi-intense-cyan':    "#93ddc2",
+    'ansi-intense-white':   "#f6f5f4",
 }
 
 # syntactic hilight elements
@@ -79,23 +97,23 @@ _p = {
 
 # adwaita-dark-like xonsh colors
 _adwaita_dark_colors = {
-    'Color.BLACK':          _c['black'],
-    'Color.BLUE':           _c['blue'],
-    'Color.CYAN':           _c['cyan'],
+    'Color.BLACK':          _c['ansi-black'],
+    'Color.BLUE':           _c['ansi-blue'],
+    'Color.CYAN':           _c['ansi-cyan'],
     'Color.DEFAULT':        _c['default'],
-    'Color.GREEN':          _c['green'],
-    'Color.INTENSE_BLACK':  _c['intense-black'],
-    'Color.INTENSE_BLUE':   _c['intense-blue'],
-    'Color.INTENSE_CYAN':   _c['intense-cyan'],
-    'Color.INTENSE_GREEN':  _c['intense-green'],
-    'Color.INTENSE_PURPLE': _c['intense-purple'],
-    'Color.INTENSE_RED':    _c['intense-red'],
-    'Color.INTENSE_WHITE':  _c['intense-white'],
-    'Color.INTENSE_YELLOW': _c['intense-yellow'],
-    'Color.PURPLE':         _c['purple'],
-    'Color.RED':            _c['red'],
-    'Color.WHITE':          _c['white'],
-    'Color.YELLOW':         _c['yellow'],
+    'Color.GREEN':          _c['ansi-green'],
+    'Color.INTENSE_BLACK':  _c['ansi-intense-black'],
+    'Color.INTENSE_BLUE':   _c['ansi-intense-blue'],
+    'Color.INTENSE_CYAN':   _c['ansi-intense-cyan'],
+    'Color.INTENSE_GREEN':  _c['ansi-intense-green'],
+    'Color.INTENSE_PURPLE': _c['ansi-intense-magenta'],
+    'Color.INTENSE_RED':    _c['ansi-intense-red'],
+    'Color.INTENSE_WHITE':  _c['ansi-intense-white'],
+    'Color.INTENSE_YELLOW': _c['ansi-intense-yellow'],
+    'Color.PURPLE':         _c['ansi-magenta'],
+    'Color.RED':            _c['ansi-red'],
+    'Color.WHITE':          _c['ansi-white'],
+    'Color.YELLOW':         _c['ansi-yellow'],
 }
 
 # pygments 'Tokens' (see https://pygments.org/docs/tokens/), version: 2.19.1
