@@ -19,8 +19,8 @@ Screenshot
 Usage
 -----
 
-```console
-    xpip install xontrib-emacs-adwaita-dark
-    xontrib load emacs-adwaita-dark
-    $XONSH_COLOR_STYLE="emacs-adwaita-dark"
+```xsh
+xpip install xontrib-emacs-adwaita-dark
+xontrib load emacs-adwaita-dark
+$XONSH_COLOR_STYLE="emacs-adwaita-dark"
 ```
